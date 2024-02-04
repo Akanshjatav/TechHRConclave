@@ -935,7 +935,6 @@ display: none;
         height: 350px;
         width: 100%;
         background-color: white;
-        padding: 5px;
         display: flex;
         flex-direction: column;
         justify-content: center;
